@@ -1,0 +1,23 @@
+[
+  {
+    "id": "17387898739141dwnw7jr9",
+    "name": "ChatGPT",
+    "category": "Chatbot",
+    "link": "https://chat.openai.com/",
+    "description": "An advanced AI chatbot for conversations."
+  },
+  {
+    "id": "1738789873914poh1jinff",
+    "name": "Midjourney",
+    "category": "Image Generation",
+    "link": "https://www.midjourney.com/",
+    "description": "AI-driven image generation platform."
+  },
+  {
+    "id": "1738791391211niy9aweli",
+    "name": "Synthesia",
+    "category": "Video Creation",
+    "link": "https://www.synthesia.io/",
+    "description": "Creates AI-generated videos."
+  }
+]
